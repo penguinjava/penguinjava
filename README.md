@@ -8,9 +8,14 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </p>
 <hr>
-<h3 align="center"> Tools </h3>
+<h3 align="center"> <strong>Tools</strong> </h3>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/62ec07d2-eaa4-45e6-8d15-71cf154300c9">
   <img src="https://github.com/user-attachments/assets/dc3c7cc9-f12f-416a-a345-3e97a22f994c">
   <img src="https://github.com/user-attachments/assets/1dbc317f-76fd-48d1-be1f-04477d208aec">
+</p>
+<hr>
+<h3 align="center"> <strong>DB</strong> </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
