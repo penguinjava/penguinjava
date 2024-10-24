@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=c0e3f5&height=220&section=header&text=Hello%World&fontSize=75)
 <h1 align="center> Used </h1>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penguinjava&layout=compact>
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penguinjava&layout=compac)
 </p>
 <h3 align="center"> <strong>Skills</strong> </h3>
 <p align="center">
