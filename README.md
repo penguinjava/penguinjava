@@ -2,6 +2,7 @@
 
 <h3 align="center"> Languages </h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://github.com/user-attachments/assets/848555b7-545f-4f6d-b58f-c21cb3ada2d2">
   <img src="https://github.com/user-attachments/assets/a9da56c7-4831-4b81-a9ca-4a2efc9abfba">
 </p>
