@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/JSP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=yellow">
+  <img src="https://img.shields.io/badge/JSP-D0D06F?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 <hr>
 <h3 align="center"> <strong>Tools</strong> </h3>
