@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=c0e3f5&height=220&section=header&text=Hello%World&fontSize=75)
 
-<h3 align="center"> Languages </h3>
+<h3 align="center"> <strong>Skills</strong> </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
