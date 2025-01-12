@@ -2,7 +2,6 @@
 <h1 align="center> Used </h1>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penguinjava">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aiueoeom)](https://solved.ac/aiueoeom/)
 </div>
 <h3 align="center"> <strong>Skills</strong> </h3>
 <p align="center">
