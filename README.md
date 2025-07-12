@@ -1,8 +1,5 @@
 
 <h1 align="center> Used </h1>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penguinjava">
-</div>
 <h3 align="center"> <strong>Skills</strong> </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
