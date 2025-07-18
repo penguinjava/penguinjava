@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/JetBrains_Gateway-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
+
 </p>
 
 <h3 align="center">🗄️ Database</h3>
